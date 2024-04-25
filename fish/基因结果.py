@@ -1,0 +1,17 @@
+GTTCATACTGTCGTTGTGTC
+=========================================
+TATTGGTCCCAGACTTCAAG
+=========================================
+CTCACATTTATAAAAACCCT
+=========================================
+TTTATAATATAATCTGTCTC
+=========================================
+GACACAACGACAGTATGAAC
+=========================================
+TTTTTTTTTTTTTTTTTTTT
+=========================================
+TGTGTGTGTGTGTGTGTGTG
+=========================================
+GAGACAGATTATATTATAAA
+=========================================
+TTTTTAAAGATGGCTACAGA
